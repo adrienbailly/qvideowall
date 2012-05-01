@@ -16,7 +16,6 @@
 
 int main(int argc, char *argv[])
 {
-    Q_INIT_RESOURCE(videowall);
     QApplication app(argc, argv);
     app.setApplicationName( "Embedded Dialogs Demo" );
 
